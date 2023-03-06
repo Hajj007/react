@@ -12,7 +12,7 @@ function Header() {
       <p>Yet bed any for traveling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
       <div className="gpt3__header-content__input emailflex">
         <input type="email" placeholder="Your email address"/>
-        <button onClick={() => { window.location.replace('https://docs.google.com/forms/d/1tLX6xYYinhsGoi_iBYtVRufc3rNdB99JbBvMcJ7r1N8/edit'); } }
+        <button onClick={() => { window.location.href="https://docs.google.com/forms/d/1tLX6xYYinhsGoi_iBYtVRufc3rNdB99JbBvMcJ7r1N8/edit"; } }
           type="button">Get Started</button>
       </div>
       <div className="gpt3__header-content__people headerflex">
